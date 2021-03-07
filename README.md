@@ -5,7 +5,9 @@
 3. 사용자의 행동(손 동작)을 인식하여 바람의 세기를 조절
 
 
-![v1](https://user-images.githubusercontent.com/33804909/110241543-c613b600-7f94-11eb-8625-291f72f101e5.gif)
+
+![v1](https://user-images.githubusercontent.com/33804909/110241756-c9f40800-7f95-11eb-99b3-f25b7dbb5f34.gif)
 
 
-![v2](https://user-images.githubusercontent.com/33804909/110241561-d75cc280-7f94-11eb-9954-42052de73b7d.gif)
+
+![v2](https://user-images.githubusercontent.com/33804909/110241760-d24c4300-7f95-11eb-832a-1fe70954a8e3.gif)
