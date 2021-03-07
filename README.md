@@ -6,7 +6,7 @@ ActionRecognition Fan(동작인식 선풍기)는 카메라와 초음파센서를
 
 ## 사용기술
 
-* ![python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python)
+* ![python](http://img.shields.io/badge/-python-FF4D00?style=flat-square&logo=python)
 * ![opencv](http://img.shields.io/badge/-opencv-5C3EE8?style=flat-square&logo=opencv)
   * 노트북에서 소켓통신으로 전달받은 영상을 분석한다.
 * 라즈베리파이
