@@ -4,5 +4,8 @@
 2. 초음파 센서를 통해 사용자와의 거리와 방향을 측정하여 사용자의 위치에 따라서 바람의 방향을 조절
 3. 사용자의 행동(손 동작)을 인식하여 바람의 세기를 조절
 
- 
-https://user-images.githubusercontent.com/33804909/110241349-a334d200-7f93-11eb-8947-a8d37a0df1ae.mp4
+
+![v1](https://user-images.githubusercontent.com/33804909/110241543-c613b600-7f94-11eb-8625-291f72f101e5.gif)
+
+
+![v2](https://user-images.githubusercontent.com/33804909/110241561-d75cc280-7f94-11eb-9954-42052de73b7d.gif)
