@@ -28,9 +28,9 @@ ActionRecognition Fan(동작인식 선풍기)는 카메라와 초음파센서를
 
 
 
-### ppt 다운로드
+##### ppt 다운로드
 https://github.com/naheechan/graduationProject/blob/main/PPT-ActionRecognitionFan.pptx
-### 시연영상 다운로드
+##### 시연영상 다운로드
 https://github.com/naheechan/graduationProject/blob/main/Video-ActionRecognitionFan.mp4
 
 
