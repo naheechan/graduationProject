@@ -1,4 +1,4 @@
-졸업작품
+졸업작품 (IOT Project)
 =========
 ## ActionRecognition Fan (동작인식 선풍기)
 ActionRecognition Fan(동작인식 선풍기)는 카메라와 초음파센서를 통해 사람을 인식하여
