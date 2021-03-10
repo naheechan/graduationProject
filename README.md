@@ -16,7 +16,7 @@ ActionRecognition Fan(동작인식 선풍기)는 카메라와 초음파센서를
 * 소켓통신
   * 라즈베리파이와 노트북 사이에서 request(영상)와 response(동작응답)을 통신해준다.
   * ![asd](https://user-images.githubusercontent.com/33804909/110243340-44745600-7f9d-11eb-9212-aa14aea867a4.PNG)
-
+  
 
 ## 주요기능
 1. 선풍기가 동작하지 않는 locked상태에서 얼굴을 인식하고, 미리 등록된 사용자의 얼굴이 확인이되면 선풍기 가동 시작   
