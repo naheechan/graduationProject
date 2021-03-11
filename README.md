@@ -28,7 +28,7 @@ ActionRecognition Fan(동작인식 선풍기)는 카메라와 초음파센서를
 
 <br>
 <br>
-<br>
+<br>  
    
 ##### pdf 다운로드   
 https://github.com/naheechan/graduationProject/blob/main/PDF-ActionRecognitionFan.pdf
